@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "./static/js/main.da51fd04.js",
-    "index.html": "./index.html",
-    "main.da51fd04.js.map": "./static/js/main.da51fd04.js.map"
+    "main.js": "/beatsons-paw-walk/static/js/main.da51fd04.js",
+    "index.html": "/beatsons-paw-walk/index.html",
+    "main.da51fd04.js.map": "/beatsons-paw-walk/static/js/main.da51fd04.js.map"
   },
   "entrypoints": [
     "static/js/main.da51fd04.js"
